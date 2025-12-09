@@ -1,0 +1,78 @@
+:root {
+  --primary-color: #9d9d9d !important;
+}
+.bg-primary {
+  background-color: var(--primary-color) !important;
+}
+
+.logo-text {
+  font-family: "Times New Roman", serif;
+  font-size: 2rem;
+  color: white;
+}
+.logo-x {
+  font-size: 3rem;
+  line-height: 1;
+  position: relative;
+  top: -5px;
+}
+
+
+.pricing-section {
+  background: #5b565a;
+}
+
+.price-card {
+  background: white;
+}
+
+.price-divider {
+  border: none;
+  border-top: 4px solid #56d03d;
+  margin: 0;
+}
+
+.footer-x {
+font-size: 3rem;
+}
+
+.footer-section {
+background: #5b565a;
+}
+ 
+.footer-nav a {
+  text-decoration: none;
+}
+
+#hero {
+  height: 450px;
+  background-image: url(../images/eating-area.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+.allergen-section {
+  background: #5b565a;
+  }
+  #hours p {
+    font-family: "Autour One", sans-serif;
+  }
+.contact-text {
+  font-family: "Autour One", sans-serif;
+}  
+body {
+  font-family: "PT Serif", serif;
+}
+h4,h2,h3 {
+  font-family: "Nunito", sans-serif;
+}
+
+button,
+.btn {
+    font-family: "Nunito", sans-serif !important;
+}
+
+#food-menu,#drinks-menu {
+  font-family: "Autour One", sans-serif;
+}
